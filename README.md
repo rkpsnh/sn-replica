@@ -1,6 +1,9 @@
 # sn-replica
 **Project Brief:**
 
+# Pending tasks
+1. Search docs on how to setup postgres in codespace
+
 **Project Name:** ServiceNow Replica Proof of Concept
 
 **Objective:** Build a proof of concept (PoC) of a ServiceNow replica using Node.js, React, and PostgreSQL to demonstrate the feasibility of replicating core functionalities.
