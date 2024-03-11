@@ -1,4 +1,6 @@
 # sn-replica
+![Screenshot 2024-03-11 at 16 35 56](https://github.com/rkpsnh/sn-replica/assets/141919563/b6bafde7-7774-4c6d-9e00-1cfd9db90cf9)
+
 **Project Brief:**
 
 # Pending tasks
